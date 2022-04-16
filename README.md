@@ -46,4 +46,4 @@
 ***
 
 ### Here are some screenshots for you to enjoy.
-<img src=Jumpy-screenshot.png width=500><img src=Jumpy-gameover.png width=500>
+<img src=Jumpy-screenshot.png width=350><img src=Jumpy-gameover.png width=350>
