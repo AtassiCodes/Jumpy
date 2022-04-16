@@ -1,8 +1,10 @@
 <!--- Start of my template --->
 <h1 align="center">
-  Jumpy<br>
-  Jumpy is a 2D game made with Python and PyGame, with the aim of reaching as high as you can!
+  Jumpy
 </h1>
+<p align="center">
+  <b>Jumpy is a 2D game made with Python and PyGame, with the aim of reaching as high as you can!</b>
+</p>
 
 <p align="center">
   <img src=Jumpy.png width="700"><br>
@@ -39,7 +41,7 @@
 
 ## Description
 
-**Jummpy is simple starightforward game, the aim is to try to stay alive for aslong as possible why trying to reach as high as you can!**
+**Jummpy is simple staright forward game, the aim is to try to stay alive for aslong as possible why trying to reach as high as you can!**
 
 ***
 
