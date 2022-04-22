@@ -15,7 +15,7 @@
   </b>
 </p>
 
-<!-- Socials -->
+<!-- Socials  -->
 
 <p align="center">
   <a href=https://github.com/atassicodes>
@@ -42,6 +42,7 @@
 ## Description
 
 **Jummpy is simple staright forward game, the aim is to try to stay alive for aslong as possible why trying to reach as high as you can!**
+
 
 ***
 
